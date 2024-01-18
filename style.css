@@ -1,0 +1,36 @@
+*{
+outline: 2px solid black;
+
+}
+
+h1{
+    text-align: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.image1{
+    border-radius: 30px;
+
+}
+
+.btn{
+    /* text-decoration: none; */
+}
+
+.btn1{
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+.card a{
+    text-decoration: none;
+    background-color: coral;
+    margin: 8px;
+    padding: 8px;
+    color: white;
+
+}
